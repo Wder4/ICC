@@ -15,4 +15,5 @@ jgproject/
 *.key
 *.rc
 *.conf
+*tsmc13_neg.v
 superlint.tcl
