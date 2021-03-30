@@ -1,0 +1,18 @@
+*.swp
+*.swo
+*.log*
+*.X
+*.0000
+
+# /dc
+*.svf
+
+# /sim
+INCA_libs/
+nWaveLog/
+jgproject/
+*.fsdb
+*.key
+*.rc
+*.conf
+superlint.tcl
